@@ -22,20 +22,20 @@ fdsasdfffd fdsfsdfsfsaf fdsfsdfsfsaf fdsfsdfsfsaf
 
 `@pre_exercise_code`
 ```{r}
-a <- c(-, 2, 3, 4, 5, 6)
+my_fun <- function() { print('----') }
 ```
 
 `@sample_code`
 ```{r}
-
+my_fun <- function() { print('hello') }
 ```
 
 `@solution`
 ```{r}
-a <- c(1, 2, 3, 4, 5, 6)
+my_fun <- function() { print('hello') }
 ```
 
 `@sct`
 ```{r}
-ex() %>% check_expr("a[c(2, 4)]") %>% check_result() %>% check_equal()
+ex() %>% check_expr("my_fun()") %>% check_output() %>% check_equal()
 ```
