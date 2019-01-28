@@ -4,13 +4,38 @@ description: 'Chapter description goes here.'
 free_preview: true
 ---
 
-## xcvxcxv
+## gfdgd
 
 ```yaml
-type: VideoExercise
-key: 870c75c3c1
-xp: 50
+type: NormalExercise
+key: 0be4ea9807
+xp: 100
 ```
 
-`@projector_key`
-d52a14037682d6eb6bc9029a360d0f0a
+fdsfsdfsfsaf fdsfsdfsfsaf fdsfsdfsfsaf fdsfsdfsfsaf
+
+`@instructions`
+dsafdasfdfa fdsfsdfsfsaf fdsfsdfsfsaf fdsfsdfsfsaf
+
+`@hint`
+fdsasdfffd fdsfsdfsfsaf fdsfsdfsfsaf fdsfsdfsfsaf
+
+`@pre_exercise_code`
+```{r}
+plot(cars[---])
+```
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+plot(cars[1,])
+```
+
+`@sct`
+```{r}
+
+```
