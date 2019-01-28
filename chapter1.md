@@ -37,5 +37,5 @@ my_fun <- function() { print('hello') }
 
 `@sct`
 ```{r}
-ex() %>% check_expr("my_fun()") %>% check_output() %>% check_equal()
+ex() %>% check_error()
 ```
