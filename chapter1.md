@@ -13,13 +13,13 @@ xp: 100
 skills: 1
 ```
 
-This is an example exercise.
+This is an example exercise.This is an example exercise. This is an example exercise.
 
 `@instructions`
-
+This is an example exercise.This is an example exercise.This is an example exercise.
 
 `@hint`
-
+This is an example exercise.
 
 `@pre_exercise_code`
 ```{r}
