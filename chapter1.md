@@ -7,9 +7,9 @@ description: 'Chapter description goes here.'
 
 ```yaml
 type: VideoExercise
-key: 95e4633548
+key: 870c75c3c1
 xp: 50
 ```
 
 `@projector_key`
-9efab82e37f8315af097770632b7758b
+d52a14037682d6eb6bc9029a360d0f0a
