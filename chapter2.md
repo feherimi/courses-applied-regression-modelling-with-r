@@ -21,10 +21,10 @@ gfssdg d
 
 `@pre_exercise_code`
 ```{r}
-
+1+1
 ```
 
 `@sct`
 ```{r}
-
+2
 ```
