@@ -61,10 +61,59 @@
       }
     },
     {
+      "timing": 0.4665900510996983,
+      "state": {
+        "indexh": 2,
+        "indexf": 2
+      }
+    },
+    {
+      "timing": 0.495258300402385,
+      "state": {
+        "indexh": 2,
+        "indexf": 3
+      }
+    },
+    {
       "timing": 0.5403769356863839,
       "state": {
         "indexh": 3,
         "indexf": -1
+      }
+    },
+    {
+      "timing": 0.5676784175818054,
+      "state": {
+        "indexh": 3,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.5949888859760334,
+      "state": {
+        "indexh": 3,
+        "indexf": 1
+      }
+    },
+    {
+      "timing": 0.6223373387735087,
+      "state": {
+        "indexh": 3,
+        "indexf": 2
+      }
+    },
+    {
+      "timing": 0.6499335387914705,
+      "state": {
+        "indexh": 3,
+        "indexf": 3
+      }
+    },
+    {
+      "timing": 0.6716087050660331,
+      "state": {
+        "indexh": 3,
+        "indexf": 4
       }
     },
     {
