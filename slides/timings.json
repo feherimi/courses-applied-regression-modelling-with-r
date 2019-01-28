@@ -47,6 +47,20 @@
       }
     },
     {
+      "timing": 0.3843290389678806,
+      "state": {
+        "indexh": 2,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.4366637395280372,
+      "state": {
+        "indexh": 2,
+        "indexf": 1
+      }
+    },
+    {
       "timing": 0.5403769356863839,
       "state": {
         "indexh": 3,
