@@ -21,20 +21,20 @@ xp: 100
 
 `@pre_exercise_code`
 ```{r}
-a <- c(-, 2, 3, 4, 5, 6)
+my_fun <- function() { print('----') }
 ```
 
 `@sample_code`
 ```{r}
-
+dasdad
 ```
 
 `@solution`
 ```{r}
-a <- c(-, 2, 3, 4, 5, 6)
+my_fun <- function() { print('----') }
 ```
 
 `@sct`
 ```{r}
-
+ex() %>% check_error()
 ```
