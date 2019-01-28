@@ -22,7 +22,7 @@ fdsasdfffd fdsfsdfsfsaf fdsfsdfsfsaf fdsfsdfsfsaf
 
 `@pre_exercise_code`
 ```{r}
-plot(cars[---])
+a <- c(-, 2, 3, 4, 5, 6)
 ```
 
 `@sample_code`
@@ -32,10 +32,10 @@ plot(cars[---])
 
 `@solution`
 ```{r}
-plot(cars[1,])
+a <- c(1, 2, 3, 4, 5, 6)
 ```
 
 `@sct`
 ```{r}
-
+ex() %>% check_expr("a[c(2, 4)]") %>% check_result() %>% check_equal()
 ```
