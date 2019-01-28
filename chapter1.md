@@ -39,3 +39,16 @@ my_fun <- function() { print('hello') }
 ```{r}
 ex() %>% check_error()
 ```
+
+---
+
+## motivation
+
+```yaml
+type: VideoExercise
+key: 88fc46f18a
+xp: 50
+```
+
+`@projector_key`
+93919c62df44dc7ce29df74b631f26e5
