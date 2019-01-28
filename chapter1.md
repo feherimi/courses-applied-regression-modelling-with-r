@@ -1,6 +1,7 @@
 ---
 title: 'Motivation for regression'
 description: 'Chapter description goes here.'
+free_preview: true
 ---
 
 ## Insert exercise title here
