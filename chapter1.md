@@ -2,6 +2,8 @@
 title: 'Motivation for regression'
 description: 'Chapter description goes here.'
 free_preview: true
+attachments:
+    slides_link: 'https://s3.amazonaws.com/assets.datacamp.com/production/course_17305/slides/chapter1.pdf'
 ---
 
 ## gfdgd
